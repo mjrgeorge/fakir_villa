@@ -1,0 +1,114 @@
+@media screen and (min-width:0px) and (max-width:5000px){
+    .name h1 {
+    font-size: 50px;
+}
+    nav ul li a {
+    padding: 15px 20px;
+    font-size: 18px;
+}
+    .main_body h2 {
+    font-size: 20px;
+}
+    .link ul li {
+    padding: 15px;
+    width: 240px;
+}
+.right_side li a {
+    font-size: 18px;
+}
+}
+
+@media screen and (min-width: 0px) and (max-width: 1080px){
+    .name h1 {
+    font-size: 30px;
+}
+    nav ul li a {
+    padding: 10px 15px;
+    font-size: 12px;
+}
+    .news marquee {
+    font-size: 15px;
+    margin-top: 10px;
+}
+    .main_body {
+   margin-top: 10px;
+}
+    .main_body h2 {
+    font-size: 13px;
+}
+    .link ul li {
+    padding: 5px;
+    width: 150px;
+}
+    .link ul a {
+    font-size: 12px;
+}
+.right_side li a {
+    font-size: 10px;
+}
+    .content p {
+    font-size: 12px;
+}
+    footer {
+    padding: 10px;
+
+}
+
+footer p {
+    font-size: 15px;
+}
+
+footer i {
+    font-size: 15px;
+    padding: 5px;
+}
+
+}
+
+@media screen and (min-width: 0px) and (max-width: 768px){
+    .name h1 {
+    font-size: 30px;
+        margin: 0 auto;
+}
+    nav ul li a {
+    padding: 8px 4px;
+    font-size: 10px;
+}
+    .news marquee {
+    font-size: 10px;
+    margin-top: 5px;
+}
+    .main_body {
+   margin-top: 5px;
+}
+    .main_body h2 {
+    font-size: 13px;
+}
+    .link ul li {
+    padding: 8px;
+    width: 100px;
+}
+    .link ul a {
+    font-size: 11px;
+}
+.right_side li a {
+    font-size: 12px;
+}
+    .content p {
+    font-size: 10px;
+}
+    footer {
+    padding: 10px;
+
+}
+
+footer p {
+    font-size: 10px;
+}
+
+footer i {
+    font-size: 12px;
+    padding: 5px;
+}
+
+}
